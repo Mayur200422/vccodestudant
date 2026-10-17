@@ -1,3 +1,184 @@
-# hello world
-#hello studant
-#my name is mayur
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ITVEDANT</title>
+</head>
+<body>
+    <a target="_blank" href="https://www.itvedant.com">
+    <img src="https://www.itvedant.com/images/itvedant-logo.svg" height="100">
+</a>
+<br>
+<br>
+<P style="font-size: x-large;">Here at Itvedant, we focus on providing technical knowledge along with building a profile of each and every student with white glove service and support because the ennd goal of our team is to make the student job ready. 
+Thus, our IT Courses have been provn to be thebest for student. We, being one of the most preferred software trainnig institute in india, workhard on giving our students the best learning experience </P>
+<br>
+<br>
+<p style="font-size: x-large;">
+    <i>
+        <b>
+            When the efforts are genuine, numbers speak louder. contact us
+        </b>
+    </i>
+</p>
+<br>
+<br>
+<p style="font-size: x-large;"><b>EMAIL ID :</b>info@itvedant.com</p>
+<p style="font-size: x-large;"><b>FOR COURSE CONTACT NUMBER :</b>+91 9205004404</p>
+</body>
+</html>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses</title>
+</head>
+<body>
+    <h1 style="font-size: ;">Master in full Stack Web Development with Python</h1>
+    <ol>
+        <li>SQL</li>
+        <li>WEb Designing</li>
+        <li>Python Programming</li>
+        <li>Django</li>
+    </ol>
+    <br>
+    <br>
+    <h1>Master in full Stack Web Development with Java</h1>
+    <ul>
+        <li>SQL</li>
+        <li>Web Designing</li>
+        <li>Python Programming</li>
+        <li>Spring Boot</li>
+    </ul>
+    <br>
+    <br>
+    <h1>Data Science and Data Analytics</h1>
+    <p>
+Artificial Intelligence <br> Artificial Intelligence is the simulation of human intelligence processes by machines, especially computer systems. 
+</p>
+<p>Tableau <br> Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualization and share with a circle</p>
+<p>PowerBI <br> Visualize any data and integrate the visuals into the apps you use every day power BI, a unifield Platform for self-service and business intelligence.</p>
+</body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Profile</title>
+</head >
+<body>
+    <form action="server.txt" method="post">
+        <h1>Create Profile</h1>
+
+    <br>
+    <br>
+    <label  style="font-size: x-large;" >First Name :</label> <input placeholder="First Name" type="text"> <br> <br>
+    <label style="font-size: x-large;">Last Name :</label> <input placeholder="Last Names" type="text"> <br> <br>
+    <label style="font-size: x-large;">Date of Birth :</label> <input type="date"> <br> <br>
+    <label style="font-size: x-large;">Enter age :</label> <input placeholder="Age" type="number"> <br> <br>
+    <label style="font-size: x-large;">Gender :</label> 
+    <input id="Male" name="Gender" value="Male"  type="radio"> <label style="font-size: x-large;">Male</label> 
+    <input id="Female" name="Gender" value="Female" type="radio"> <label style="font-size: x-large;">Female</label>
+    <br>
+    <br>
+    <label style="font-size: x-large;">Current Address :</label> <textarea rows="10" cols="70" id=""></textarea> <br>
+     <label style="font-size: x-large;">Permanent Address :</label> <textarea rows="10" cols="70" id=""></textarea>
+     <br>
+     <br>
+     <br>
+
+     <button style="font-size: xx-large;" type="button">create</button>
+    </form>
+</body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Tag</title>
+</head>
+<body>
+<table border="2">
+    <thead align="center" style="height: 70px;">
+      
+          <td style="width: 200px;" >Topic</td>
+          <td style="width: 700px;">Description</td>
+        
+         </thead>
+          <tbody>
+             <tr style="height: 70px;">
+                    <td>Program</td>
+                    <td>A set of instructions that you give to a computer so that it will do a praticular task</td>
+                </tr>
+                <tr style="height: 70px;">
+                    <td>Algorithm</td>
+                    <td><b>A step-by=step procedure used to solve a progblem is called algorithm</b></td>
+                </tr>
+                <tr style="height: 70px;">
+                    <td>Flowchart</td>
+                    <td><i>A flowchart is a type of diagram that visually explain a process or workflow</i></td>
+                </tr>
+                <tr style="height: 70px;">
+                    <td>Compiler</td>
+                    <td><strong><u>A compiler translates code written in a high-level programming language into a lower-level language</u></strong></td>
+                </tr>
+                <tr style="height: 70px;">
+                    <td>Interpreter</td>
+                    <td>An interpreter translates the code line-by-line when the program is running</td>
+                </tr>
+                <tr style="height: 70px;">
+                    <td>Chemical formula of water</td>
+                    <td>H<sub>2</sub>O</td>
+                </tr>
+                <tr style="height: 70px;">
+                    <td>Area of circlr</td>
+                    <td>pi r <sup>2</sup></td>
+                </tr>
+               
+            </tbody>
+</table>
+</body>
+</html>
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student|Sign In</title>
+</head>
+<body>
+    <form action="server.txt" method="post">
+
+        <h1>Sign In</h1>
+        <label><b>Username :</b></label> <input required placeholder="Enter Email ID" type="email"> 
+        <br>
+        <br>
+        <label><b>Password :</b></label> <input required type="password"> 
+        <br>
+      
+        <button style="font-size:large;">Sign In</button>
+
+    </form>
+    
+</body>
+</html>
