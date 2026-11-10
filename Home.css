@@ -1,5 +1,5 @@
 #box1 {
-    background-color: green;
+    background: linear-gradient(rgb(109, 185, 109),rgb(4, 116, 4));
 
     font-size: 80px;
     height: 100px;
@@ -10,7 +10,7 @@
 }
 
 #box2 {
-    background-color: black;
+    background: linear-gradient(rgb(72, 80, 72),rgb(51, 37, 37));
     color: white;
       font-size: 80px;
     height: 100px;
@@ -31,8 +31,10 @@
 
 #taps {
     top: 100px;
-    border: 2px solid black;
+    border: 0px solid black;
     width: 250px;
+    margin-bottom: 330px;
+    box-shadow: 2px 2px 10px 1px black;
 }
 
 #value1 {
@@ -61,10 +63,22 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
     background-color: red;
+   
 }
 
 #button:hover {
     background-color: black;
     color: white;
 }
+
+#foot {
+    background: linear-gradient(rgb(109, 185, 109),rgb(4, 116, 4));
+    height: 100px;
+}
+
+#background {
+    background: radial-gradient(rgb(198, 204, 200), rgb(109, 63, 107));
+}
+
+
 
