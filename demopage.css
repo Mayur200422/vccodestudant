@@ -125,3 +125,479 @@ top: 80px;
     justify-content: space-around;
 }
 
+
+
+#p1 {
+    background-color: rgb(32, 184, 32);
+    position: absolute;
+    height: 80px;
+    width: 550px;
+    top: 20px;
+    left: 67%;
+    text-align: center;
+    align-content: center;
+}
+
+#p2 {
+       background-color: rgb(211, 161, 24);
+    position: absolute;
+    height: 140px;
+    width: 550px;
+    top: 100px;
+    left: 67%;
+    text-align: center;
+    align-content: center;
+}
+
+.circlemain {
+  
+    position: absolute;
+  height: 200px;
+  top: 240px;
+  left: 67%;
+  width: 547px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#circle {
+    text-align: center;
+    align-content: center;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+   border-radius: 50%;
+    
+}
+
+#p6 {
+    background-color: purple;
+    height: 90px;
+    width: 350px;
+    position: absolute;
+    left: 67%;
+    top: 440px;
+    text-align: center;
+    align-content: center;
+}
+
+#p7 {
+    background-color: blue;
+    height: 90px;
+    position: absolute;
+    right: 10%;
+    top: 440px;
+    width: 170px;
+    text-align: center;
+    align-content: center;
+}
+
+#p8 {
+    background-color: lightskyblue;
+    position: absolute;
+    height: 100px;
+    right: 240px;
+    width: 550px;
+    top: 550px;
+  align-content: center;
+    text-align: center;
+}
+
+
+
+#tap1 {
+    position: absolute;
+   
+    background-color: red;
+    height: 150px;
+    width: 150px;
+}
+
+#tap2 {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+   
+    left:170px;
+}
+
+#tap3 {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 335px;
+}
+
+#tap4 {
+    position: absolute;
+    height: 150px;
+    left: 20.8%;
+}
+
+#tap5 {
+    background-color: blue;
+    position: absolute;
+    height: 150px;
+    left: 27.5%;
+    color: white;
+    width: 315px;
+   
+}
+
+#tap6 {
+    position: absolute;
+    height: 150px;
+    top: 185px;
+}
+
+#tap7 {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 185px;
+    left: 170px;
+}
+
+#tap8 {
+     background-color: rgb(19, 221, 29);
+    position: absolute;
+    height: 150px;
+    width: 315px;
+    top: 185px;
+    left: 335px;
+    color: white;
+}
+
+#tap9 {
+    position: absolute;
+    height: 150px;
+    left: 27.5%;
+   top: 185px;
+}
+
+#tap10 {
+    position: absolute;
+    height: 150px;
+    top: 185px;
+    left: 34.4%;
+}
+
+#tap11 {
+   background-color: rgb(212, 25, 128);
+    position: absolute;
+    height: 150px;
+   top: 350px;
+    color: white;
+    width: 315px; 
+}
+
+#tap12 {
+    position: absolute;
+    height: 150px;
+    top: 350px;
+    left: 335px;
+}
+
+#tap13 {
+    position: absolute;
+    height: 150px;
+    top: 350px;
+     left: 20.8%;
+}
+
+#tap14 {
+    position: absolute;
+    left: 27.5%;
+  top: 350px;
+  height: 150px;
+}
+
+#tap15 {
+    position: absolute;
+    height: 150px;
+     left: 34.4%;
+      top: 350px;
+}
+
+
+#top1 {
+    position: absolute;
+    height: 200px;
+    top: 50%;
+}
+
+#top2 {
+    background-color: green;
+    height: 200px;
+    position: absolute;
+    width: 900px;
+    top: 50%;
+    left: 230px;
+}
+
+#top3 {
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 48%;
+}
+
+#top4 {
+    background-color: rgb(214, 38, 67);
+    height: 200px;
+    position: absolute;
+    top: 68.4%;
+    width: 500px;
+}
+
+#top5 {
+    height: 200px;
+    position: absolute;
+    top: 68.4%;
+    left: 530px;
+}
+
+#top6 {
+    height:200px ;
+    position: absolute;
+    top: 68.4%;
+    left: 750px;
+}
+
+#top7 {
+    height: 200px;
+    background-color: aqua;
+    width: 500px;
+    position: absolute;
+    top: 86.6%;
+}
+
+#top8 {
+    height: 200px;
+    top: 86.6%; 
+    position: absolute;
+  left: 530px;
+
+}
+
+#top9 {
+    height: 200px;
+    position: absolute;
+left: 750px;
+top: 86.6%; 
+width: 200px;
+}
+
+#top10 {
+    position: absolute;
+    height: 419px;
+    background-color: coral;
+    top: 68.4%;
+    left: 40.9%;
+    width: 370px;
+}
+
+#top11 {
+    position: absolute;
+    height: 419px;
+    background-color: coral;
+    top: 105%;
+    
+    width: 500px;
+}
+
+#top12 {
+    height: 200px;
+    top: 105%;
+    position: absolute;
+    left: 530px;
+}
+
+#top13 {
+    height: 200px;
+   left: 750px; 
+   position: absolute;
+   top: 105%;
+}
+
+#top14 {
+    height: 200px;
+    position: absolute;
+    top: 123%;
+   left: 530px;
+}
+
+#top15 {
+    height: 200px;
+    position: absolute;
+     top: 123%;
+     left: 750px; 
+}
+
+#top16 {
+       height: 200px;
+    background-color: rgb(212, 10, 145);
+    width: 500px;
+    position: absolute;
+     top: 123%;
+   left: 975px; 
+   width: 370px;
+}
+
+#top17 {
+       height: 200px;
+    background-color: rgb(228, 111, 15);
+    width: 500px;
+    position: absolute;
+     top: 105%;
+     left: 975px; 
+     width: 370px;
+}
+
+
+
+.boxs3 {
+    display: flex;
+    align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  
+    
+    height: 550px;
+    width: 50%;
+    background-color: rgb(54, 120, 219);
+}
+
+#main1 {
+    height: 370px;
+    background-color: white;
+    width: 300px;
+   box-shadow: 5px 5px 10px 1px black;
+    border-radius: 10px;
+  
+}
+
+#main1 > div {
+    border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+    height: 50px;
+    text-align: center;
+    align-content: center;
+    font-size: 21px;
+    background-color: gray;
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#button {
+ 
+  margin-top: 250px;
+  height: 50px;
+  width: 259px;
+margin-left: 20px;
+border-radius: 10px;
+font-size: 17px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: green;
+color: white;
+}
+
+
+
+
+.boxs2 {
+    
+    height: 500px;
+    width: 50%;
+    background-color: bisque;
+    position: absolute;
+    top: 50%;
+   text-align: center;
+    
+}
+
+.boxs2 h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input {
+    background-color: transparent;
+    border: none;
+    font-style: italic;
+    font-size: 20px;
+}
+
+hr {
+    width: 900px;
+    margin-bottom: 50px;
+    
+}
+
+button {
+    height: 50px;
+    width: 200px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    margin-bottom: 70px;
+}
+
+img {
+    height: 50px;
+    margin-bottom: 1px;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#icon1 p:last-of-type {
+    color: gray;
+    margin: 0;
+}
+#icon2 p:last-of-type {
+    color: gray;
+    margin: 0;
+}
+#icon3 p:last-of-type {
+    color: gray;
+    margin: 0;
+}
+#icon4 p:last-of-type {
+    color: gray;
+    margin: 0;
+}
+#icon5 p:last-of-type {
+    color: gray;
+    margin: 0;
+}
+
+#icon1 p:first-of-type {
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+#icon2 p:first-of-type {
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+#icon3 p:first-of-type {
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+#icon4 p:first-of-type {
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+#icon5 p:first-of-type {
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
